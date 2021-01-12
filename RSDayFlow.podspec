@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'RSDayFlow'
-  s.version       = '1.8.2'
+  s.version       = '2.0.0'
   s.summary       = 'iOS 7 Calendar with Infinite Scrolling.'
   s.homepage      = 'https://github.com/VladGnilozyb/RSDayFlow'
   s.license       = { :type => 'MIT', :file => 'LICENSE' }
